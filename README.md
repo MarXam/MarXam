@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- 👋 README de GitHub: MarXam -->
 
-<!--
-**MarXam/MarXam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! 👋 Soy MarXam</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 Estudiante de <b>Ingeniería en Sistemas</b> con pasión por la <b>tecnología</b>, la <b>innovación</b> y el <b>desarrollo de software</b>.<br>
+💻 Con experiencia en <b>Android Studio (Java)</b>, <b>Python (Tkinter, KivyMD)</b>, <b>desarrollo web con CSS y Bootstrap</b>, y manejo de <b>MySQL</b> y <b>MongoDB</b>.<br>
+⚙️ También cuento con conocimientos en <b>modelado de procesos con Bizagi</b>.<br>
+🚀 Siempre aprendiendo, explorando nuevas herramientas y creando soluciones que marquen la diferencia.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+| Lenguajes | Frameworks / Librerías | Bases de Datos | Otros |
+|------------|------------------------|----------------|-------|
+| ☕ Java | Tkinter, KivyMD | 🐬 MySQL | 🧠 Git, GitHub |
+| 🐍 Python | Bootstrap, CSS | 🍃 MongoDB | ⚙️ Bizagi |
+
+---
+
+### 📂 Proyectos Destacados
+
+- 📱 **[Nombre del proyecto 1](#)** — Breve descripción del proyecto o tecnología usada.  
+- 💻 **[Nombre del proyecto 2](#)** — Breve descripción del proyecto o aporte principal.  
+- 🌐 **[Nombre del proyecto 3](#)** — Algo que quieras destacar (por ejemplo, un sitio web o app).
+
+---
+
+### 📫 Contacto
+
+📧 **Correo:** [tuemail@ejemplo.com]  
+💼 **LinkedIn:** [tu-linkedin-aquí](#)  
+🐙 **GitHub:** [MarXam](https://github.com/MarXam)
+
+---
+
+<p align="center">✨ “El aprendizaje constante es la clave para la innovación.” ✨</p>

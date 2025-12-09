@@ -20,18 +20,10 @@
 
 ---
 
-### 📂 Proyectos Destacados
-
-- 📱 **[Nombre del proyecto 1](#)** — Breve descripción del proyecto o tecnología usada.  
-- 💻 **[Nombre del proyecto 2](#)** — Breve descripción del proyecto o aporte principal.  
-- 🌐 **[Nombre del proyecto 3](#)** — Algo que quieras destacar (por ejemplo, un sitio web o app).
-
----
-
 ### 📫 Contacto
 
-📧 **Correo:** [tuemail@ejemplo.com]  
-💼 **LinkedIn:** [tu-linkedin-aquí](#)  
+📧 **Correo:** [kevinsatiago.arangoperafan@gmail.com]  
+💼 **LinkedIn:** [Santiago Arango](https://www.linkedin.com/in/marxam/)  
 🐙 **GitHub:** [MarXam](https://github.com/MarXam)
 
 ---

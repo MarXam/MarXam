@@ -22,7 +22,7 @@
 
 ### 📫 Contacto
 
-📧 **Correo:** kevinsatiago.arangoperafan@gmail.com
+📧 **Correo:** [kevinsatiago.arangoperafan@gmail.com]
 💼 **LinkedIn:** [Santiago Arango](https://www.linkedin.com/in/marxam/)  
 🐙 **GitHub:** [MarXam](https://github.com/MarXam)
 
